@@ -1,5 +1,4 @@
 <?php
-
 interface Inter {
     const CONSTANTE_Inter1 = '<p>CONSTANTE_Inter1</p>';
 }
